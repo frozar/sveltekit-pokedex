@@ -1,7 +1,11 @@
 # Documentation link
 
+Tutorial to setup the complete pokedex example:  
 https://www.youtube.com/watch?v=UU7MgYIbtAk&ab_channel=JamesQQuick
 https://github.com/jamesqquick/svelte-kit-pokedex
+
+Tutorial to setup the vercel deployment example:  
+https://www.youtube.com/watch?v=l21Fj0A7xn0&ab_channel=BraydenGirard
 
 # create-svelte
 
